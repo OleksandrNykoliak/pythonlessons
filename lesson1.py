@@ -1,0 +1,1 @@
+print('Example for students gow to push the code to git')
